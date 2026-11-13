@@ -1,0 +1,3 @@
+@echo off
+echo Launching ARES Mars AI Terminal in your default browser...
+start "" "%~dp0index.html"
